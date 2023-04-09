@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwagtail=self.webpackChunkwagtail||[]).push([[753],{734:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/my-waggu-website/blog/tags/hola","allTagsPath":"/my-waggu-website/blog/tags","count":1}')}}]);
