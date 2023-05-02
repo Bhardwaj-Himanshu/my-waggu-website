@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwagtail=self.webpackChunkwagtail||[]).push([[151],{1389:a=>{a.exports=JSON.parse('{"permalink":"/my-waggu-website/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

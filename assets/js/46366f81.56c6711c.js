@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwagtail=self.webpackChunkwagtail||[]).push([[396],{5985:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/my-waggu-website/blog/tags/docusaurus","allTagsPath":"/my-waggu-website/blog/tags","count":4}')}}]);
